@@ -24,9 +24,37 @@ Use
 # manually solution
  # create vm1 on droplets
  1-  yum install git -y
- 2-  git clone https://github.com/ikambarov/Flaskex
+ 2-  git clone https://github.com/ikambarov/Flaskex.git
  3-  cd Flaskex
  4-  curl -s https://bootstrap.pypa.io/pip/2.7/get-pip.py | python
  5-  pip install WTForms==2.3.3
  6-  pip install  -r  requirements.txt  try this if its doesnt work ( pip install  -r  Flaskex/requirements.txt )     
  7-  python app.py
+
+#######
+
+- pkill  -9  python =  it forcefully stops all running Python processes
+- nohup python app.py = it keeps running even if your terminal is closed or you log out. (Normally, when you close your terminal or get disconnected (especially over SSH), running programs stop. 
+  nohup prevents that.)
+- nohup python app.py & = to run it in the background than add &
+- netstat -plnt = This command lists network connections and listening ports on your system, showing useful details
+
+
+# ansible-playbook  -i hosts  main.yml = testing command for playbook on vsc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
