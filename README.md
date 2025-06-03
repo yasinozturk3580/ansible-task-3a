@@ -40,7 +40,7 @@ Use
 - netstat -plnt = This command lists network connections and listening ports on your system, showing useful details
 
 
-# ansible-playbook  -i hosts  main.yml = testing command for playbook on vsc
+# ansible-playbook  -i hosts  main.yml = testing playbook for playbook on vsc
 
 
 
