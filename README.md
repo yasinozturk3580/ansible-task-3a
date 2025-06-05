@@ -24,7 +24,7 @@ Use
 # manually solution
  # create vm1 on droplets
  1-  yum install git -y
- 2-  git clone https://github.com/ikambarov/Flaskex.git
+ 2-  git clone https://github.com/ikambarov/Flaskex
  3-  cd Flaskex
  4-  curl -s https://bootstrap.pypa.io/pip/2.7/get-pip.py | python
  5-  pip install WTForms==2.3.3
@@ -41,6 +41,16 @@ Use
 
 
 # ansible-playbook  -i hosts  main.yml = testing playbook for playbook on vsc
+
+
+
+
+####
+NOTES..
+2 rules while writing playbooks
+- you cant automate something you dont know
+- test one task at a time.
+- create playbook before creating a role
 
 
 
