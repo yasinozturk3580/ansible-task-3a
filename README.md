@@ -28,7 +28,7 @@ Use
  3-  cd Flaskex
  4-  curl -s https://bootstrap.pypa.io/pip/2.7/get-pip.py | python
  5-  pip install WTForms==2.3.3
- 6-  pip install  -r  requirements.txt  try this if its doesnt work ( pip install  -r  Flaskex/requirements.txt )     
+ 6-  pip install  -r  requirements.txt  try this if it doesnt work ( pip install  -r  Flaskex/requirements.txt )     
  7-  python app.py
 
 #######
