@@ -72,7 +72,6 @@ NOTES..
 
 
 
-<img width="1504" alt="Screenshot 2025-06-06 at 9 46 53 PM" src="https://github.com/user-attachments/assets/7676c2f3-da85-47be-b3ff-b14850b2c3db" />
 
 
 
@@ -81,6 +80,8 @@ NOTES..
 
 
 
+
+<img width="1506" alt="Screenshot 2025-06-06 at 9 57 28 PM" src="https://github.com/user-attachments/assets/b2b7b40b-a816-4a4d-94e4-79b37dd20b1e" />
 
 
  
