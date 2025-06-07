@@ -64,12 +64,21 @@ NOTES..
 
 
 
-<img width="1502" alt="Screenshot 2025-06-06 at 12 57 08 PM" src="https://github.com/user-attachments/assets/750cbf3a-76e7-43ff-a6b5-e29fe4e67858" />
 
 
 
 
 
 
-![image](https://github.com/user-attachments/assets/b37e567c-5e16-4e2b-a948-e40de024faf8)
+
+
+<img width="1502" alt="Screenshot 2025-06-06 at 12 57 08 PM" src="https://github.com/user-attachments/assets/334b1b8e-63d4-448a-9b37-5c89925a4a45" />
+
+
+
+
+
+
+
+
  
