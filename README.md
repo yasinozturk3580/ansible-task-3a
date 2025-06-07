@@ -72,7 +72,7 @@ NOTES..
 
 
 
-<img width="1502" alt="Screenshot 2025-06-06 at 12 57 08 PM" src="https://github.com/user-attachments/assets/334b1b8e-63d4-448a-9b37-5c89925a4a45" />
+
 
 
 
