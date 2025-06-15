@@ -43,8 +43,8 @@ Use
 13- nohup python app.py & = to run it in the background than add &
 14- netstat -plnt = This command lists network connections and listening ports on your system, showing useful details
 
-
-# ansible-playbook  -i hosts  main.yml = testing playbook for playbook on vsc
+#  ansible  -i hosts  all  -m ping
+#  ansible-playbook  -i hosts  main.yml = testing playbook for playbook on vsc
 
 
 
