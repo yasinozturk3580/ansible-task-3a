@@ -1,0 +1,11 @@
+galaxy_info:
+  author: yasin ozturk
+  description: thıs role ınstalls pıp2 
+  license: MIT
+  min_ansible_version: 2.9
+  galaxy_tags: 
+  - pıp
+  - pıp2
+dependencies: []
+ 
+ 

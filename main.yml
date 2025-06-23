@@ -1,0 +1,77 @@
+- hosts: all
+  become: yes
+  tasks:
+  - name: Install Git
+    import_role: 
+      name: ansible-git-role
+
+
+  - name: Install dependencies
+    yum:
+      name:
+        - git
+        - python3
+        - python3-pip
+      state: present
+
+  - name: Clone App Repo 
+    git:
+      repo: https://github.com/anfederico/Flaskex.git
+      dest: /Flaskex
+
+
+  - name: Install Pip 
+    import_role:
+      name: ansible-pip-role
+    
+
+  - name: Install required Python packages manually (Flask etc.)
+    pip:
+      name:
+        - flask
+        - flask_sqlalchemy
+        - flask_login
+        - gunicorn
+      executable: pip3
+
+ 
+  - name: Start App
+    shell: "pkill  app.py;  nohup python app.py &"
+    args:
+      chdir: /Flaskex
+
+
+
+
+ 
+
+  
+  
+ 
+
+  
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
+
+  
+
+
+

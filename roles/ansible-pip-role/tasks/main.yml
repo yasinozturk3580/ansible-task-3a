@@ -1,0 +1,9 @@
+---
+ - name: Install required Python packages manually (Flask etc.)
+   pip:
+     name:
+       - flask
+       - flask_sqlalchemy
+       - flask_login
+       - gunicorn
+     executable: pip3
