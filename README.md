@@ -42,6 +42,22 @@ Use
   nohup prevents that.)
 13- nohup python app.py & = to run it in the background than add &
 14- netstat -plnt = This command lists network connections and listening ports on your system, showing useful details
+15- ss -plnt =  This command lists network connections and listening ports on your system, showing useful details
+
+####
+# with VSC playbook.
+1- create main.yml file under ansible-task-3a
+2- create hosts file
+after playbook 
+3- create roles folder under ansible-task-3a
+run this commands in roles folder = A - ansible-galaxy  init  git-role 
+B- ansible-galaxy  init  pip-role
+4- rm -rf git-role/
+5- rm -rf pip-role/
+6- ansible-galaxy  init  ansible-git-role
+7- ansible-galaxy  init  ansible-pip-role
+
+
 
 #  ansible  -i hosts  all  -m ping
 #  ansible-playbook  -i hosts  main.yml = testing playbook for playbook on vsc
