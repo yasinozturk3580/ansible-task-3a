@@ -56,6 +56,7 @@ B- ansible-galaxy  init  pip-role
 5- rm -rf pip-role/
 6- ansible-galaxy  init  ansible-git-role
 7- ansible-galaxy  init  ansible-pip-role
+- keep files defaults,meta,tasks,readme  delete rest of them.
 
 
 
