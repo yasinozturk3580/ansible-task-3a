@@ -62,7 +62,7 @@ B- ansible-galaxy  init  pip-role
 
 #  ansible  -i hosts  all  -m ping
 #  ansible-playbook  -i hosts  main.yml = testing playbook for playbook on vsc
-
+# rm -rf ( file or folder name ) : delete it
 
 
 
