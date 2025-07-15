@@ -80,29 +80,19 @@ NOTES..
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img width="1506" alt="Screenshot 2025-06-06 at 9 57 28 PM" src="https://github.com/user-attachments/assets/b2b7b40b-a816-4a4d-94e4-79b37dd20b1e" />
 
 
  
+
+
+<img width="255" height="466" alt="1" src="https://github.com/user-attachments/assets/8beae19f-165b-4adf-a262-fb2b07c57982" />
+
+
+
+<img width="266" height="478" alt="2" src="https://github.com/user-attachments/assets/e28b48fd-6334-47df-bacf-c2b09d3d97a9" />
+
+
+
+<img width="261" height="643" alt="3" src="https://github.com/user-attachments/assets/bb4b480f-f191-4fe3-961b-80a588a8dfc9" />
+
